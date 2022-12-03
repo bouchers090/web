@@ -40,3 +40,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * [e-Commerce-6](https://bouchers090.github.io/web/ecommerce6/index.html)
 * [e-Commerce-7](https://bouchers090.github.io/web/ecommerce7/index.html)
 * [e-Commerce-8](https://bouchers090.github.io/web/ecommerce8/index.html)
+
+### Admin Dashboard (CRM)
+
+* [admin-1](https://bouchers090.github.io/web/admin1/index.html)
+* [admin-2](https://bouchers090.github.io/web/admin2/index.html)
+* [admin-3](https://bouchers090.github.io/web/admin3/index.html)
+* [admin-4](https://bouchers090.github.io/web/admin4/index.html)
+* [admin-5](https://bouchers090.github.io/web/admin5/index.html)
+* [admin-6](https://bouchers090.github.io/web/admin6/index.html)
